@@ -1,0 +1,14 @@
+# User-specific files
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Environment / secrets
+appsettings.Development.json
+.env
+
+# Rider
+.idea/
